@@ -1,8 +1,16 @@
- main_child
+
+
+welcome to the Netherlands
+The land of tulips and canals
+My name is Amith
+Working as an ESG Analyst
+
+
 welcome to the Netherlands
 The land of tulips and canals
 
 Amith studied in the netherlands
+
 Netherlands is a beutiful country, and situated in western Europe
 
 
@@ -10,4 +18,4 @@ Netherlands is a beutiful country, and situated in western Europe
 The land of tulips and canals
 Amsterdam is the capital of the Netherlands
 Rotterdam is the biggest port in Europe.
- main
+
